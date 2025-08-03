@@ -75,6 +75,4 @@ a:hover {
 
 .avatar {
   width: 40px;
-  -webkit-filter: grayscale(100%);
-  filter: grayscale(100%);
 }
