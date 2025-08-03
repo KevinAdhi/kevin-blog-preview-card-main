@@ -10,6 +10,10 @@
 body {
   background-color: hsl(47, 88%, 63%);
 }
+
+h3 {
+  font-weight: 800;
+}
 .main {
   display: flex;
   justify-content: center;
@@ -24,6 +28,7 @@ body {
   border-radius: 20px;
   padding: 25px;
   margin: 0 20px;
+  box-shadow: 6px 6px hsl(0, 0%, 7%);
 }
 
 .image-container {
@@ -41,7 +46,7 @@ body {
   border-radius: 5px;
   margin-top: 20px;
   width: fit-content;
-  font-weight: 700;
+  font-weight: 800;
 }
 
 .date {
